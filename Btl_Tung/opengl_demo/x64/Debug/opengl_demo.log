@@ -1,0 +1,21 @@
+﻿  main.cpp
+D:\code app\DHMT\Hinhhopdonvi_VS2019_ASCII\opengl_demo\include\vector_matrix.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\code app\DHMT\Hinhhopdonvi_VS2019_ASCII\opengl_demo\main.cpp(188,89): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\code app\DHMT\Hinhhopdonvi_VS2019_ASCII\opengl_demo\main.cpp(194,106): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\code app\DHMT\Hinhhopdonvi_VS2019_ASCII\opengl_demo\main.cpp(200,107): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\code app\DHMT\Hinhhopdonvi_VS2019_ASCII\opengl_demo\main.cpp(206,61): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\code app\DHMT\Hinhhopdonvi_VS2019_ASCII\opengl_demo\main.cpp(206,91): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\code app\DHMT\Hinhhopdonvi_VS2019_ASCII\opengl_demo\main.cpp(212,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\code app\DHMT\Hinhhopdonvi_VS2019_ASCII\opengl_demo\main.cpp(212,90): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\code app\DHMT\Hinhhopdonvi_VS2019_ASCII\opengl_demo\main.cpp(220,59): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\code app\DHMT\Hinhhopdonvi_VS2019_ASCII\opengl_demo\main.cpp(220,107): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\code app\DHMT\Hinhhopdonvi_VS2019_ASCII\opengl_demo\main.cpp(228,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\code app\DHMT\Hinhhopdonvi_VS2019_ASCII\opengl_demo\main.cpp(228,109): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\code app\DHMT\Hinhhopdonvi_VS2019_ASCII\opengl_demo\main.cpp(236,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\code app\DHMT\Hinhhopdonvi_VS2019_ASCII\opengl_demo\main.cpp(236,90): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\code app\DHMT\Hinhhopdonvi_VS2019_ASCII\opengl_demo\main.cpp(252,33): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\code app\DHMT\Hinhhopdonvi_VS2019_ASCII\opengl_demo\main.cpp(254,33): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\code app\DHMT\Hinhhopdonvi_VS2019_ASCII\opengl_demo\main.cpp(255,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\code app\DHMT\Hinhhopdonvi_VS2019_ASCII\opengl_demo\main.cpp(261,2): error C3861: 'TayNamCua': identifier not found
+D:\code app\DHMT\Hinhhopdonvi_VS2019_ASCII\opengl_demo\main.cpp(268,33): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\code app\DHMT\Hinhhopdonvi_VS2019_ASCII\opengl_demo\main.cpp(269,30): warning C4305: 'argument': truncation from 'double' to 'float'
